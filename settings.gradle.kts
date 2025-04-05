@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Trash Picker"
 include(":app")
+ 
